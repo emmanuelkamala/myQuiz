@@ -1,0 +1,15 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+h1, h3 {
+    font-weight: 700;
+}
+
+h4 {
+    font-weight: 400;
+}
+
+p {
+    color: grey;
+}
