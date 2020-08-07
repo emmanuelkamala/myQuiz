@@ -24,14 +24,14 @@ let efficiency = document.createElement('p');
 let feedback = document.createElement('p');
 let challenge = document.createElement('p');
 
-role.innerHTML = `<p>Master is Rohan Sundar<br />Presenter is Emmanuel Kamala</p>`;
+role.innerHTML = `<p>Master is Grace Mugoiri<br />Presenter is Emmanuel Kamala</p>`;
 fluent.innerHTML = `<p>Yes, code writing and thinking aloud went really smooth.</p>`;
 life.innerHTML = `<p>Yes</p>`;
 help.innerHTML = `<p>They were not stuck at any point</p>`;
 example.innerHTML = `<p>Yes</p>`;
 efficiency.innerHTML = `<p>Yes</p>`;
 feedback.innerHTML = `<p>The presenter was happy to discover some room for improvements.</p>`;
-challenge.innerHTML = `<p>Sorting Challenges: Maximum Time Range(Repl.it)</p>`;
+challenge.innerHTML = `<p>[reading] Advanced Graph Algorithms: Computational Complexity repeated</p>`;
 
 displayRoleResult = () => roleAns.appendChild(role);
 displayFluentResult = () => fluentAns.appendChild(fluent);
