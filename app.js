@@ -26,7 +26,7 @@ let challenge = document.createElement('p');
 
 role.innerHTML = `<p>Master is Grace Mugoiri<br />Presenter is Emmanuel Kamala</p>`;
 fluent.innerHTML = `<p>Yes, code writing and thinking aloud went really smooth.</p>`;
-life.innerHTML = `<p>Yes</p>`;
+life.innerHTML = `<p>No</p>`;
 help.innerHTML = `<p>They were not stuck at any point</p>`;
 example.innerHTML = `<p>Yes</p>`;
 efficiency.innerHTML = `<p>Yes</p>`;
