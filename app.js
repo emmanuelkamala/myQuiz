@@ -31,7 +31,7 @@ help.innerHTML = `<p>They were not stuck at any point</p>`;
 example.innerHTML = `<p>No</p>`;
 efficiency.innerHTML = `<p>Yes</p>`;
 feedback.innerHTML = `<p>The presenter was happy to discover some room for improvements.</p>`;
-challenge.innerHTML = `<p>[Leetcode]: Find All Numbers Disappeared in an Array</p>`;
+challenge.innerHTML = `<p>Find All Numbers Disappeared in an Array (Leetcode)</p>`;
 
 displayRoleResult = () => roleAns.appendChild(role);
 displayFluentResult = () => fluentAns.appendChild(fluent);
