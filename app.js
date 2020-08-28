@@ -24,7 +24,7 @@ let efficiency = document.createElement('p');
 let feedback = document.createElement('p');
 let challenge = document.createElement('p');
 
-role.innerHTML = `<p>Master is Molnar Emese<br />Presenter is Emmanuel Kamala</p>`;
+role.innerHTML = `<p>Master is Victor Okeugo<br />Presenter is Emmanuel Kamala</p>`;
 fluent.innerHTML = `<p>Yes, code writing and thinking aloud went really smooth.</p>`;
 life.innerHTML = `<p>No</p>`;
 help.innerHTML = `<p>They were not stuck at any point</p>`;
