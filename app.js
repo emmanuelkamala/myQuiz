@@ -24,14 +24,14 @@ let efficiency = document.createElement('p');
 let feedback = document.createElement('p');
 let challenge = document.createElement('p');
 
-role.innerHTML = `<p>Master is Abdusaid Abdulrasov<br />Presenter is Emmanuel Kamala</p>`;
+role.innerHTML = `<p>Master is Molnar Emese<br />Presenter is Emmanuel Kamala</p>`;
 fluent.innerHTML = `<p>Yes, code writing and thinking aloud went really smooth.</p>`;
 life.innerHTML = `<p>No</p>`;
 help.innerHTML = `<p>They were not stuck at any point</p>`;
 example.innerHTML = `<p>No</p>`;
 efficiency.innerHTML = `<p>Yes</p>`;
 feedback.innerHTML = `<p>The presenter was happy to discover some room for improvements.</p>`;
-challenge.innerHTML = `<p>Find All Numbers Disappeared in an Array (Leetcode)</p>`;
+challenge.innerHTML = `<p>Kth Largest Element in an Array (Leetcode)</p>`;
 
 displayRoleResult = () => roleAns.appendChild(role);
 displayFluentResult = () => fluentAns.appendChild(fluent);
